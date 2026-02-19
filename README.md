@@ -12,7 +12,7 @@ A full-stack AI website builder where users describe a website in plain English 
 ## 📁 Project Structure
 
 ```
-qwert/
+WEB-CRAFT
 ├── backend/                  # Express API server
 │   ├── src/
 │   │   ├── config/           # DB + JWT config
